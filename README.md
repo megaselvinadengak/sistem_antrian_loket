@@ -10,4 +10,4 @@ https://drive.google.com/file/d/1ekUcdNlNY84Rtt-CvCYZrrXHi_IJRhMr/view
 
 
 
-demo aplikasi  = 
+demo aplikasi  =  https://demoaplikasisistemantrianloket.000webhostapp.com/
